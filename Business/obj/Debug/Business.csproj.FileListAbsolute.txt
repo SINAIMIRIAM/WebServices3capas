@@ -1,0 +1,14 @@
+C:\Users\smaguilar\documents\visual studio 2015\Projects\WebService\Business\bin\Debug\Business.dll
+C:\Users\smaguilar\documents\visual studio 2015\Projects\WebService\Business\bin\Debug\Business.pdb
+C:\Users\smaguilar\documents\visual studio 2015\Projects\WebService\Business\bin\Debug\Data.dll
+C:\Users\smaguilar\documents\visual studio 2015\Projects\WebService\Business\bin\Debug\Data.pdb
+C:\Users\smaguilar\documents\visual studio 2015\Projects\WebService\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\smaguilar\documents\visual studio 2015\Projects\WebService\Business\obj\Debug\Business.dll
+C:\Users\smaguilar\documents\visual studio 2015\Projects\WebService\Business\obj\Debug\Business.pdb
+C:\Users\smaguilar\Documents\Visual Studio 2015\Projects\WebService 3 capas\Business\bin\Debug\Business.dll
+C:\Users\smaguilar\Documents\Visual Studio 2015\Projects\WebService 3 capas\Business\bin\Debug\Business.pdb
+C:\Users\smaguilar\Documents\Visual Studio 2015\Projects\WebService 3 capas\Business\bin\Debug\Data.dll
+C:\Users\smaguilar\Documents\Visual Studio 2015\Projects\WebService 3 capas\Business\bin\Debug\Data.pdb
+C:\Users\smaguilar\Documents\Visual Studio 2015\Projects\WebService 3 capas\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\smaguilar\Documents\Visual Studio 2015\Projects\WebService 3 capas\Business\obj\Debug\Business.dll
+C:\Users\smaguilar\Documents\Visual Studio 2015\Projects\WebService 3 capas\Business\obj\Debug\Business.pdb

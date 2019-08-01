@@ -1,0 +1,9 @@
+C:\Users\smaguilar\documents\visual studio 2015\Projects\WebService\Data\bin\Debug\Data.dll
+C:\Users\smaguilar\documents\visual studio 2015\Projects\WebService\Data\bin\Debug\Data.pdb
+C:\Users\smaguilar\documents\visual studio 2015\Projects\WebService\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\smaguilar\documents\visual studio 2015\Projects\WebService\Data\obj\Debug\Data.dll
+C:\Users\smaguilar\documents\visual studio 2015\Projects\WebService\Data\obj\Debug\Data.pdb
+C:\Users\smaguilar\Documents\Visual Studio 2015\Projects\WebService 3 capas\Data\bin\Debug\Data.dll
+C:\Users\smaguilar\Documents\Visual Studio 2015\Projects\WebService 3 capas\Data\bin\Debug\Data.pdb
+C:\Users\smaguilar\Documents\Visual Studio 2015\Projects\WebService 3 capas\Data\obj\Debug\Data.dll
+C:\Users\smaguilar\Documents\Visual Studio 2015\Projects\WebService 3 capas\Data\obj\Debug\Data.pdb

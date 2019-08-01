@@ -1,0 +1,7 @@
+c:\users\smaguilar\documents\visual studio 2015\Projects\WebService\Business\bin\Release\Business.dll
+c:\users\smaguilar\documents\visual studio 2015\Projects\WebService\Business\bin\Release\Business.pdb
+c:\users\smaguilar\documents\visual studio 2015\Projects\WebService\Business\bin\Release\Data.dll
+c:\users\smaguilar\documents\visual studio 2015\Projects\WebService\Business\bin\Release\Data.pdb
+c:\users\smaguilar\documents\visual studio 2015\Projects\WebService\Business\obj\Release\Business.csprojResolveAssemblyReference.cache
+c:\users\smaguilar\documents\visual studio 2015\Projects\WebService\Business\obj\Release\Business.dll
+c:\users\smaguilar\documents\visual studio 2015\Projects\WebService\Business\obj\Release\Business.pdb

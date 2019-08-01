@@ -1,0 +1,5 @@
+c:\users\smaguilar\documents\visual studio 2015\Projects\WebService\Data\bin\Release\Data.dll
+c:\users\smaguilar\documents\visual studio 2015\Projects\WebService\Data\bin\Release\Data.pdb
+c:\users\smaguilar\documents\visual studio 2015\Projects\WebService\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+c:\users\smaguilar\documents\visual studio 2015\Projects\WebService\Data\obj\Release\Data.dll
+c:\users\smaguilar\documents\visual studio 2015\Projects\WebService\Data\obj\Release\Data.pdb
